@@ -20,6 +20,6 @@ Answers to question 2a - 2c are are in AddressPrinter class
 Answers to question 2d - 2e are in the AddressValidator class
 The test cases are in the package scr\test\java\address
 
-I am wishing myself all the best.
+I am wishing myself all the best :)
 
 Thank you for the opportunity!
